@@ -676,8 +676,8 @@ fieldset[disabled] .btn-theme {
 	position: relative;
   display: block;
   font-size: 16px;
-  font-weight: 700;
-  letter-spacing: 1px;
+  font-weight: 600;
+  letter-spacing: 2px;
   font-family: Hind, sans-serif;
   /* font-family: 'Roboto Condensed', sans-serif; */
   /* color: #fff; */
@@ -712,7 +712,7 @@ fieldset[disabled] .btn-theme {
   position: relative;
   display: block;
   font-size: 13px;
-  /* letter-spacing: 1px; */
+  letter-spacing: 1px;
   font-weight: 600;
   font-family: Hind, sans-serif;
   /* font-family: 'Roboto Condensed', sans-serif; */
