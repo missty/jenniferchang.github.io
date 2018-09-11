@@ -547,7 +547,7 @@ fieldset[disabled] .btn-theme {
   transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
 }
 
-/* Navbar Toggle */
+/*  Toggle */
 .header .navbar-toggle {
   width: 25px;
   height: 25px;
@@ -753,6 +753,7 @@ fieldset[disabled] .btn-theme {
     (Change it to any breakpoint you want to be collapsed) */
   .header {
     background: #fff;
+    padding-bottom: 20px;
   }
   .header .navbar-toggle {
     display: block;
