@@ -429,7 +429,7 @@ fieldset[disabled] .btn-theme {
 .work .work-overlay .work-text .work-text-title {
   color: #515769;
   font-size: 20px;
-  font-weight: 600;
+  /* font-weight: 600; */
 }
 
 /* Popup */
